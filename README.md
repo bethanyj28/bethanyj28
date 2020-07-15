@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**bethanyj28/bethanyj28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is __Bethany__<sup>_she/her_</sup> and I'm a software engineer in the beautiful Charlotte, NC!
 
-Here are some ideas to get you started:
+My day-to-day job involves writing __go__ for a chat application at [Red Ventures](https://www.redventures.com/). I've used a lot of that knowledge in my personal projects, like [Gomato](https://github.com/bethanyj28/gomato). 
+Writing in go helped me see the beauty of simplicity within an API, something which I try to apply to all code that I write.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning __python__. Data science and machine learning are two fields that have always interested me, but I had never used python for projects in the classes I took. I'm really loving how _easy_ it is to do anything in python, which makes it a really fun language to write!
+
+I'm also currently reading up on __react__ so that I can build a personal site and attempt to freelance. It's definitely different from most things that I've done, but it's really cool to learn about the other side of the coin so that I can work better with my front end colleagues. 
+
+I spend most of my free time working on various passion projects, but would love to start contributing to open source and giving back. When I'm not coding, I enjoy listening to podcasts about coding, hiking, kayaking, lifting heavy things, baking, playing piano, singing, reading, and dogspotting.
+
+#### 🎙️ Podcasts I love
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
+- [Go Time](https://changelog.com/gotime)
+- [Practical AI](https://changelog.com/practicalai)
+
+#### 📚 Books I love
+- [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
+- [Technically Wrong](https://www.amazon.com/Technically-Wrong-Sexist-Algorithms-Threats/dp/0393634639/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
+- [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
+#### 💕 Organizations I support
+- [Rewriting the Code](https://rewritingthecode.org/)
+- [Black Girls Code](https://www.blackgirlscode.com/)
+- [The Bail Project](https://bailproject.org/)
+- [Pits and Giggles Rescue](https://www.pitsandgigglesrescue.org/)
