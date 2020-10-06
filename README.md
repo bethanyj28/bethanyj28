@@ -2,7 +2,7 @@
 
 My name is __Bethany__<sup>_she/her_</sup> and I'm a software engineer in the beautiful Charlotte, NC!
 
-My day-to-day job involves writing __go__ for a chat application at [Red Ventures](https://www.redventures.com/). I've used a lot of that knowledge in my personal projects, like [Gomato](https://github.com/bethanyj28/gomato). 
+My day-to-day job involves writing __go__ for a chat application at [Red Ventures](https://www.redventures.com/). I've used a lot of that knowledge in my personal projects, like [Gomato](https://github.com/bethanyj28/gomato) and [transcription-api](https://github.com/bethanyj28/transcription-api). 
 Writing in go helped me see the beauty of simplicity within an API, something which I try to apply to all code that I write.
 
 I'm currently learning __python__. Data science and machine learning are two fields that have always interested me, but I had never used python for projects in the classes I took. I'm really loving how _easy_ it is to do anything in python, which makes it a really fun language to write!
