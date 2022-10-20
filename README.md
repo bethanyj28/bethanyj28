@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is __Bethany__<sup>_she/her_</sup> and I'm a software engineer in the beautiful Charlotte, NC!
+My name is __Bethany__<sup>_she/her_</sup> and I'm a software engineer in the beautiful city of Charlotte, NC!
 
 #### 🎙️ Podcasts I love
 - [Go Time](https://changelog.com/gotime)
