@@ -62,6 +62,7 @@
 * I very much subscribe to the opinion of "Strong opinions, loosely held". I believe there's usually more than one correct way to do something. My experiences have informed my perspective but I don't think that invalidates other perspectives.
 * I think context matters with this as well. If we are in the planning phase of something I am very open to any and all thoughts and ideas for the direction and shape of the work. However, if I'm trying to execute on something, I prefer to keep the scope as minimal as possible (it doesn't mean I'm completely unwilling, just understand it might not be a now thing).
 * Data and concrete examples are always helpful. I think it's important to fully understand the "why" behind any ask.
+* To be honest I love sparkles ✨ Not so much for the points (though I do love some fake internet points!) but more because it gives me something to look back on when doing reflections!
 	 
 ### How do you like to give feedback?
 * If it's something I feel emotional about, I like to take at least a day to make sure that there is no emotion associated with my feedback and that it is as constructive to the person's growth as possible.
